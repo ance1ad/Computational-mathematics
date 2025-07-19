@@ -1,0 +1,15 @@
+D:\BSTU\ВЫЧМАТ\6\IntegralCalculating\bin\Debug\net6.0\IntegralCalculating.exe
+D:\BSTU\ВЫЧМАТ\6\IntegralCalculating\bin\Debug\net6.0\IntegralCalculating.deps.json
+D:\BSTU\ВЫЧМАТ\6\IntegralCalculating\bin\Debug\net6.0\IntegralCalculating.runtimeconfig.json
+D:\BSTU\ВЫЧМАТ\6\IntegralCalculating\bin\Debug\net6.0\IntegralCalculating.dll
+D:\BSTU\ВЫЧМАТ\6\IntegralCalculating\bin\Debug\net6.0\IntegralCalculating.pdb
+D:\BSTU\ВЫЧМАТ\6\IntegralCalculating\obj\Debug\net6.0\IntegralCalculating.csproj.AssemblyReference.cache
+D:\BSTU\ВЫЧМАТ\6\IntegralCalculating\obj\Debug\net6.0\IntegralCalculating.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSTU\ВЫЧМАТ\6\IntegralCalculating\obj\Debug\net6.0\IntegralCalculating.AssemblyInfoInputs.cache
+D:\BSTU\ВЫЧМАТ\6\IntegralCalculating\obj\Debug\net6.0\IntegralCalculating.AssemblyInfo.cs
+D:\BSTU\ВЫЧМАТ\6\IntegralCalculating\obj\Debug\net6.0\IntegralCalculating.csproj.CoreCompileInputs.cache
+D:\BSTU\ВЫЧМАТ\6\IntegralCalculating\obj\Debug\net6.0\IntegralCalculating.dll
+D:\BSTU\ВЫЧМАТ\6\IntegralCalculating\obj\Debug\net6.0\refint\IntegralCalculating.dll
+D:\BSTU\ВЫЧМАТ\6\IntegralCalculating\obj\Debug\net6.0\IntegralCalculating.pdb
+D:\BSTU\ВЫЧМАТ\6\IntegralCalculating\obj\Debug\net6.0\IntegralCalculating.genruntimeconfig.cache
+D:\BSTU\ВЫЧМАТ\6\IntegralCalculating\obj\Debug\net6.0\ref\IntegralCalculating.dll

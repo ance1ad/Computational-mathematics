@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SolutionOfEquation/1.0.0": {
+        "runtime": {
+          "SolutionOfEquation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SolutionOfEquation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\BSTU\ВЫЧМАТ\7\MinQuadro\obj\Debug\net6.0\MinQuadro.csproj.AssemblyReference.cache
+D:\BSTU\ВЫЧМАТ\7\MinQuadro\obj\Debug\net6.0\MinQuadro.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSTU\ВЫЧМАТ\7\MinQuadro\obj\Debug\net6.0\MinQuadro.AssemblyInfoInputs.cache
+D:\BSTU\ВЫЧМАТ\7\MinQuadro\obj\Debug\net6.0\MinQuadro.AssemblyInfo.cs
+D:\BSTU\ВЫЧМАТ\7\MinQuadro\obj\Debug\net6.0\MinQuadro.csproj.CoreCompileInputs.cache
+D:\BSTU\ВЫЧМАТ\7\MinQuadro\bin\Debug\net6.0\MinQuadro.exe
+D:\BSTU\ВЫЧМАТ\7\MinQuadro\bin\Debug\net6.0\MinQuadro.deps.json
+D:\BSTU\ВЫЧМАТ\7\MinQuadro\bin\Debug\net6.0\MinQuadro.runtimeconfig.json
+D:\BSTU\ВЫЧМАТ\7\MinQuadro\bin\Debug\net6.0\MinQuadro.dll
+D:\BSTU\ВЫЧМАТ\7\MinQuadro\bin\Debug\net6.0\MinQuadro.pdb
+D:\BSTU\ВЫЧМАТ\7\MinQuadro\obj\Debug\net6.0\MinQuadro.dll
+D:\BSTU\ВЫЧМАТ\7\MinQuadro\obj\Debug\net6.0\refint\MinQuadro.dll
+D:\BSTU\ВЫЧМАТ\7\MinQuadro\obj\Debug\net6.0\MinQuadro.pdb
+D:\BSTU\ВЫЧМАТ\7\MinQuadro\obj\Debug\net6.0\MinQuadro.genruntimeconfig.cache
+D:\BSTU\ВЫЧМАТ\7\MinQuadro\obj\Debug\net6.0\ref\MinQuadro.dll

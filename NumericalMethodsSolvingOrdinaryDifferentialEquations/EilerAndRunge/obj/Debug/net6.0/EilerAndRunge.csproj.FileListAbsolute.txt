@@ -1,0 +1,15 @@
+D:\BSTU\ВЫЧМАТ\9\EilerAndRunge\bin\Debug\net6.0\EilerAndRunge.exe
+D:\BSTU\ВЫЧМАТ\9\EilerAndRunge\bin\Debug\net6.0\EilerAndRunge.deps.json
+D:\BSTU\ВЫЧМАТ\9\EilerAndRunge\bin\Debug\net6.0\EilerAndRunge.runtimeconfig.json
+D:\BSTU\ВЫЧМАТ\9\EilerAndRunge\bin\Debug\net6.0\EilerAndRunge.dll
+D:\BSTU\ВЫЧМАТ\9\EilerAndRunge\bin\Debug\net6.0\EilerAndRunge.pdb
+D:\BSTU\ВЫЧМАТ\9\EilerAndRunge\obj\Debug\net6.0\EilerAndRunge.csproj.AssemblyReference.cache
+D:\BSTU\ВЫЧМАТ\9\EilerAndRunge\obj\Debug\net6.0\EilerAndRunge.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSTU\ВЫЧМАТ\9\EilerAndRunge\obj\Debug\net6.0\EilerAndRunge.AssemblyInfoInputs.cache
+D:\BSTU\ВЫЧМАТ\9\EilerAndRunge\obj\Debug\net6.0\EilerAndRunge.AssemblyInfo.cs
+D:\BSTU\ВЫЧМАТ\9\EilerAndRunge\obj\Debug\net6.0\EilerAndRunge.csproj.CoreCompileInputs.cache
+D:\BSTU\ВЫЧМАТ\9\EilerAndRunge\obj\Debug\net6.0\EilerAndRunge.dll
+D:\BSTU\ВЫЧМАТ\9\EilerAndRunge\obj\Debug\net6.0\refint\EilerAndRunge.dll
+D:\BSTU\ВЫЧМАТ\9\EilerAndRunge\obj\Debug\net6.0\EilerAndRunge.pdb
+D:\BSTU\ВЫЧМАТ\9\EilerAndRunge\obj\Debug\net6.0\EilerAndRunge.genruntimeconfig.cache
+D:\BSTU\ВЫЧМАТ\9\EilerAndRunge\obj\Debug\net6.0\ref\EilerAndRunge.dll

@@ -1,0 +1,15 @@
+D:\BSTU\ВЫЧМАТ\8\SolutionOfEquation\bin\Debug\net6.0\SolutionOfEquation.exe
+D:\BSTU\ВЫЧМАТ\8\SolutionOfEquation\bin\Debug\net6.0\SolutionOfEquation.deps.json
+D:\BSTU\ВЫЧМАТ\8\SolutionOfEquation\bin\Debug\net6.0\SolutionOfEquation.runtimeconfig.json
+D:\BSTU\ВЫЧМАТ\8\SolutionOfEquation\bin\Debug\net6.0\SolutionOfEquation.dll
+D:\BSTU\ВЫЧМАТ\8\SolutionOfEquation\bin\Debug\net6.0\SolutionOfEquation.pdb
+D:\BSTU\ВЫЧМАТ\8\SolutionOfEquation\obj\Debug\net6.0\SolutionOfEquation.csproj.AssemblyReference.cache
+D:\BSTU\ВЫЧМАТ\8\SolutionOfEquation\obj\Debug\net6.0\SolutionOfEquation.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSTU\ВЫЧМАТ\8\SolutionOfEquation\obj\Debug\net6.0\SolutionOfEquation.AssemblyInfoInputs.cache
+D:\BSTU\ВЫЧМАТ\8\SolutionOfEquation\obj\Debug\net6.0\SolutionOfEquation.AssemblyInfo.cs
+D:\BSTU\ВЫЧМАТ\8\SolutionOfEquation\obj\Debug\net6.0\SolutionOfEquation.csproj.CoreCompileInputs.cache
+D:\BSTU\ВЫЧМАТ\8\SolutionOfEquation\obj\Debug\net6.0\SolutionOfEquation.dll
+D:\BSTU\ВЫЧМАТ\8\SolutionOfEquation\obj\Debug\net6.0\refint\SolutionOfEquation.dll
+D:\BSTU\ВЫЧМАТ\8\SolutionOfEquation\obj\Debug\net6.0\SolutionOfEquation.pdb
+D:\BSTU\ВЫЧМАТ\8\SolutionOfEquation\obj\Debug\net6.0\SolutionOfEquation.genruntimeconfig.cache
+D:\BSTU\ВЫЧМАТ\8\SolutionOfEquation\obj\Debug\net6.0\ref\SolutionOfEquation.dll

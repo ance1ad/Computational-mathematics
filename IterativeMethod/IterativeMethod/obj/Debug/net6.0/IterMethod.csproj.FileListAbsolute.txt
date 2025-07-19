@@ -1,0 +1,15 @@
+D:\BSTU\ВЫЧМАТ\2\IterMethod\bin\Debug\net6.0\IterMethod.exe
+D:\BSTU\ВЫЧМАТ\2\IterMethod\bin\Debug\net6.0\IterMethod.deps.json
+D:\BSTU\ВЫЧМАТ\2\IterMethod\bin\Debug\net6.0\IterMethod.runtimeconfig.json
+D:\BSTU\ВЫЧМАТ\2\IterMethod\bin\Debug\net6.0\IterMethod.dll
+D:\BSTU\ВЫЧМАТ\2\IterMethod\bin\Debug\net6.0\IterMethod.pdb
+D:\BSTU\ВЫЧМАТ\2\IterMethod\obj\Debug\net6.0\IterMethod.csproj.AssemblyReference.cache
+D:\BSTU\ВЫЧМАТ\2\IterMethod\obj\Debug\net6.0\IterMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSTU\ВЫЧМАТ\2\IterMethod\obj\Debug\net6.0\IterMethod.AssemblyInfoInputs.cache
+D:\BSTU\ВЫЧМАТ\2\IterMethod\obj\Debug\net6.0\IterMethod.AssemblyInfo.cs
+D:\BSTU\ВЫЧМАТ\2\IterMethod\obj\Debug\net6.0\IterMethod.csproj.CoreCompileInputs.cache
+D:\BSTU\ВЫЧМАТ\2\IterMethod\obj\Debug\net6.0\IterMethod.dll
+D:\BSTU\ВЫЧМАТ\2\IterMethod\obj\Debug\net6.0\refint\IterMethod.dll
+D:\BSTU\ВЫЧМАТ\2\IterMethod\obj\Debug\net6.0\IterMethod.pdb
+D:\BSTU\ВЫЧМАТ\2\IterMethod\obj\Debug\net6.0\IterMethod.genruntimeconfig.cache
+D:\BSTU\ВЫЧМАТ\2\IterMethod\obj\Debug\net6.0\ref\IterMethod.dll

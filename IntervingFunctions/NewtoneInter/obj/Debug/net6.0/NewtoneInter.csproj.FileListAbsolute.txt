@@ -1,0 +1,15 @@
+D:\BSTU\ВЫЧМАТ\4\NewtoneInter\bin\Debug\net6.0\NewtoneInter.exe
+D:\BSTU\ВЫЧМАТ\4\NewtoneInter\bin\Debug\net6.0\NewtoneInter.deps.json
+D:\BSTU\ВЫЧМАТ\4\NewtoneInter\bin\Debug\net6.0\NewtoneInter.runtimeconfig.json
+D:\BSTU\ВЫЧМАТ\4\NewtoneInter\bin\Debug\net6.0\NewtoneInter.dll
+D:\BSTU\ВЫЧМАТ\4\NewtoneInter\bin\Debug\net6.0\NewtoneInter.pdb
+D:\BSTU\ВЫЧМАТ\4\NewtoneInter\obj\Debug\net6.0\NewtoneInter.csproj.AssemblyReference.cache
+D:\BSTU\ВЫЧМАТ\4\NewtoneInter\obj\Debug\net6.0\NewtoneInter.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSTU\ВЫЧМАТ\4\NewtoneInter\obj\Debug\net6.0\NewtoneInter.AssemblyInfoInputs.cache
+D:\BSTU\ВЫЧМАТ\4\NewtoneInter\obj\Debug\net6.0\NewtoneInter.AssemblyInfo.cs
+D:\BSTU\ВЫЧМАТ\4\NewtoneInter\obj\Debug\net6.0\NewtoneInter.csproj.CoreCompileInputs.cache
+D:\BSTU\ВЫЧМАТ\4\NewtoneInter\obj\Debug\net6.0\NewtoneInter.dll
+D:\BSTU\ВЫЧМАТ\4\NewtoneInter\obj\Debug\net6.0\refint\NewtoneInter.dll
+D:\BSTU\ВЫЧМАТ\4\NewtoneInter\obj\Debug\net6.0\NewtoneInter.pdb
+D:\BSTU\ВЫЧМАТ\4\NewtoneInter\obj\Debug\net6.0\NewtoneInter.genruntimeconfig.cache
+D:\BSTU\ВЫЧМАТ\4\NewtoneInter\obj\Debug\net6.0\ref\NewtoneInter.dll

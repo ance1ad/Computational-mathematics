@@ -1,0 +1,15 @@
+D:\BSTU\ВЫЧМАТ\3\BM3\bin\Debug\net6.0\BM3.exe
+D:\BSTU\ВЫЧМАТ\3\BM3\bin\Debug\net6.0\BM3.deps.json
+D:\BSTU\ВЫЧМАТ\3\BM3\bin\Debug\net6.0\BM3.runtimeconfig.json
+D:\BSTU\ВЫЧМАТ\3\BM3\bin\Debug\net6.0\BM3.dll
+D:\BSTU\ВЫЧМАТ\3\BM3\bin\Debug\net6.0\BM3.pdb
+D:\BSTU\ВЫЧМАТ\3\BM3\obj\Debug\net6.0\BM3.csproj.AssemblyReference.cache
+D:\BSTU\ВЫЧМАТ\3\BM3\obj\Debug\net6.0\BM3.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSTU\ВЫЧМАТ\3\BM3\obj\Debug\net6.0\BM3.AssemblyInfoInputs.cache
+D:\BSTU\ВЫЧМАТ\3\BM3\obj\Debug\net6.0\BM3.AssemblyInfo.cs
+D:\BSTU\ВЫЧМАТ\3\BM3\obj\Debug\net6.0\BM3.csproj.CoreCompileInputs.cache
+D:\BSTU\ВЫЧМАТ\3\BM3\obj\Debug\net6.0\BM3.dll
+D:\BSTU\ВЫЧМАТ\3\BM3\obj\Debug\net6.0\refint\BM3.dll
+D:\BSTU\ВЫЧМАТ\3\BM3\obj\Debug\net6.0\BM3.pdb
+D:\BSTU\ВЫЧМАТ\3\BM3\obj\Debug\net6.0\BM3.genruntimeconfig.cache
+D:\BSTU\ВЫЧМАТ\3\BM3\obj\Debug\net6.0\ref\BM3.dll
